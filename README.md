@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Part-Time Gamer, Full-Time Dev
 
 - 🏢 Currently doing Internships!
-- 🎓 Digipen Institute of Technology 2018 - 2022
+- 🎓 Bachelors of Computer Science and Game Design @ Digipen Institute of Technology 2018 - 2022
 
 
 ### Connect with me:
