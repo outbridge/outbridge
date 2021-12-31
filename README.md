@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello there, I'm Leo 👋 
-
-[![Website](https://www.linkedin.com/in/jiang-chuqiao/)](LinkedIn)
+### Hello there, I'm Leo [website] 👋 
 
 ## Part-Time Gamer, Full-Time Dev
 
