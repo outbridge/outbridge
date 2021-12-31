@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello there, I'm Leo [website] 👋 
+### Hello there, I'm [Leo][website] 👋 
 
 ## Part-Time Gamer, Full-Time Dev
 
