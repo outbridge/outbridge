@@ -25,9 +25,10 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/8523186/147832467-4fa59e51-e543-4e9c-a1ce-b7e80e4e5a03.png" />][website]
+<!--
 [<img align="left" alt="Youtube" width="22px" src="https://user-images.githubusercontent.com/8523186/147832456-1d190d1c-20e6-455a-822e-e636ebca47c9.png" />][youtube]
 [<img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/8523186/147832443-f0f7bac0-40ed-41d2-b213-b2cb30502ce0.png" />][instagram]
-
+-->
 <br />
 
 ### Languages and Tools:
